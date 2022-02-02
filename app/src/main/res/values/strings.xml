@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bottom sheet - kotlin</string>
+    <string name="share">Share</string>
+</resources>
